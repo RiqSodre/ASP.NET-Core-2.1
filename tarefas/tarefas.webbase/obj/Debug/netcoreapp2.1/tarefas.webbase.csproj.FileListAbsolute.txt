@@ -1,0 +1,14 @@
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.deps.json
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.runtimeconfig.json
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.runtimeconfig.dev.json
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.dll
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.pdb
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.csproj.CoreCompileInputs.cache
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorAssemblyInfo.cache
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorAssemblyInfo.cs
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.AssemblyInfoInputs.cache
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.AssemblyInfo.cs
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorTargetAssemblyInfo.cache
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.dll
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.pdb
+C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.csprojAssemblyReference.cache
