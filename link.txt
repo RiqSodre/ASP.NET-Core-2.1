@@ -1,1 +1,3 @@
 https://bit.ly/2nvD8xF
+https://medium.com/@renato.groffe/net-core-2-1-e-asp-net-core-2-1-guia-de-refer%C3%AAncia-b34a42ac5915
+https://medium.com/@renato.groffe/asp-net-core-dicas-%C3%BAteis-para-o-dia-a-dia-de-um-desenvolvedor-parte-1-fd2e4b797472

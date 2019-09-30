@@ -11,6 +11,5 @@ namespace tarefas.repositories.Repositories.Interfaces
         Task Update(TEntity entity);
         Task Delete(TEntity entity);
         Task<List<TEntity>> GetAll();
-
     }
 }
