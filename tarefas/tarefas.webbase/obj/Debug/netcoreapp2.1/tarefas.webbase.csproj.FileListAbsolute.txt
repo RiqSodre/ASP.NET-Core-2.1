@@ -12,3 +12,17 @@ C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1
 C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.dll
 C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.pdb
 C:\Users\manut\Documents\Projeto\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.csprojAssemblyReference.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.deps.json
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.runtimeconfig.json
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.runtimeconfig.dev.json
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.dll
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\bin\Debug\netcoreapp2.1\tarefas.webbase.pdb
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.csprojAssemblyReference.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorAssemblyInfo.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorAssemblyInfo.cs
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.AssemblyInfoInputs.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.AssemblyInfo.cs
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.RazorTargetAssemblyInfo.cache
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.dll
+C:\Users\ricardo.sodre\Desktop\ASP.NET-Core-2.1\tarefas\tarefas.webbase\obj\Debug\netcoreapp2.1\tarefas.webbase.pdb

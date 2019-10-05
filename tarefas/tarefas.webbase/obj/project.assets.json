@@ -11797,19 +11797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\monitor\\.nuget\\packages\\": {}
+    "C:\\Users\\ricardo.sodre\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monitor\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\tarefas.webbase.csproj",
+      "projectUniqueName": "C:\\Users\\ricardo.sodre\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\tarefas.webbase.csproj",
       "projectName": "tarefas.webbase",
-      "projectPath": "C:\\Users\\monitor\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\tarefas.webbase.csproj",
-      "packagesPath": "C:\\Users\\monitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monitor\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\obj\\",
+      "projectPath": "C:\\Users\\ricardo.sodre\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\tarefas.webbase.csproj",
+      "packagesPath": "C:\\Users\\ricardo.sodre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricardo.sodre\\Desktop\\ASP.NET-Core-2.1\\tarefas\\tarefas.webbase\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\monitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricardo.sodre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11845,23 +11849,16 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
