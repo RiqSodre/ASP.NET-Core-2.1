@@ -32,8 +32,8 @@ namespace tarefas.data
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<SqlContext>(options => options.UseSqlServer(Configuration["ConnectionString"]));
-
+            DataStartup.AddConnectionStringContext(services, Configuration);
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

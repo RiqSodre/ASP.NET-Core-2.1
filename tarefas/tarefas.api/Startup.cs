@@ -9,6 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using tarefas.business;
+using tarefas.data;
 
 namespace tarefas.api
 {
@@ -25,6 +27,19 @@ namespace tarefas.api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("tarefas", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Version = "1.0",
+                    Title = "Projeto Tarefas"
+                });
+            });
+
+            DataStartup.AddConnectionStringContext(services, Configuration);
+            
+            BusinessStartup.AddServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -35,6 +50,11 @@ namespace tarefas.api
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/tarefas/swagger.json", "Tarefas");
+            });
             app.UseMvc();
         }
     }

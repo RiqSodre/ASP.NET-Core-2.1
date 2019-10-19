@@ -39,6 +39,8 @@ namespace tarefas.business.Business
 
             var entity = payload.PayloadToEntity(payload);
 
+            entity.Roles = "user";
+
             await _userRepository.Create(entity);
         }
     }
